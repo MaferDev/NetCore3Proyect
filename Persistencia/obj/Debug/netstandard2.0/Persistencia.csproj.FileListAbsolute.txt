@@ -1,0 +1,12 @@
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netstandard2.0\Dominio.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netstandard2.0\Dominio.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb

@@ -1,0 +1,14 @@
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.deps.json
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netstandard2.0\Dominio.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netstandard2.0\Persistencia.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netstandard2.0\Dominio.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netstandard2.0\Persistencia.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csprojAssemblyReference.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfoInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfo.cs
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CoreCompileInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CopyComplete
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.pdb
