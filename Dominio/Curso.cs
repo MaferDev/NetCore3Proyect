@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 namespace Dominio
 {
     public class Curso
@@ -7,7 +8,11 @@ namespace Dominio
         public string Titulo {get;set;}
         public string Descripcion {get;set;}
         public DateTime FechaPublicacion {get;set;}
-
         public byte[] fotoPortada {get;set;}
+
+        public Precio PrecioPromocion {get;set;}
+        public ICollection<Comentario> ComentarioLista {get;set;}
+        public ICollection<CursoInstructor> InstructoresLink {get;set;}
+
     }
 }
