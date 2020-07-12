@@ -42,6 +42,10 @@ Ingresamos a la carpeta de Persistencia y agregamos la referencia a Dominio
 dotnet add reference ../Dominio/
 ~~~
 
+## Crear Controler en WebAPI Core
+
+
+localhost\SQLEXPRESS
 ~~~
 ~~~
 ~~~
