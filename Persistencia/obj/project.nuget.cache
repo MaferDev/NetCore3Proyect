@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HolZ7wMw/AwarDNnhBRWsYyt2N6iRaYfA6K098zAwBZfWbxaTuOSIJYaZYAenaRMBe3EwkzCPSS/sV0FMCKsGA==",
+  "dgSpecHash": "huKifzOYM8F2KnI0bk2jabzB/Sd7j3bn8nx7PwnLS1QT/I3mGBwLhKPnWAXf8nQ15li5ZZ5oiOygS0MAvTJRVQ==",
   "success": true,
-  "projectFilePath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mary_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mary_\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

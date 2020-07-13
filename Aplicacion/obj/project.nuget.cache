@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JktyrZRy8Uz8uunY0JvzMjjp4rHukYOjX1HgGhmsjs2MWrh0TtTbOyCiWj76Vw0z7EGf6v03fGzzP01ymcKE3g==",
+  "dgSpecHash": "QkhvnMdK0nrtO7HjeSvovHmN4/Zm5O10JLjZYneCUD0sTdQP2Bt9kQ86lpND7SWbe7CIDznmATYpvk6Z6TZwyw==",
   "success": true,
-  "projectFilePath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mary_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mary_\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {}
+    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
+    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-        "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\obj\\",
+        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj"
+              "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj"
               },
-              "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj"
+              "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
+    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
+        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-        "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\obj\\",
+        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -127,14 +127,14 @@
         }
       }
     },
-    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj": {
+    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
+        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-        "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\obj\\",
+        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -153,8 +153,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj"
+              "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj"
               }
             }
           }

@@ -5010,11 +5010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebApi\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj",
+      "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebApi\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-      "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\obj\\",
+      "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5033,8 +5033,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj"
+            "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }
