@@ -46,7 +46,13 @@ dotnet add reference ../Dominio/
 
 En objetivo de las clases controllers es de recibir y manejar requerimientos, requests de  clientes, mas no manejar logica de negocios.
 
-La capa aplicación es la encargada de manejar la logica de negocio.
+### Desarrollo de la capa Aplicación
+incorporamos librerias al proyecto aplicacion.
+MediatR.Extensions
+
+La capa de aplicación es el encargado del manejo de la logica del negocio.
+
+CancellationToken => cancela la petición asincrona en el backend una vez solicitada.
 
 ~~~
 ~~~
