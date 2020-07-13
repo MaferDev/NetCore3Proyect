@@ -1,18 +1,15 @@
 using System;
 using System.Threading;
 using System.Threading.Tasks;
-using Dominio;
 using MediatR;
 using Persistencia;
 
 namespace Aplicacion.Cursos
 {
-    public class Nuevo
+    public class Eliminar
     {
         public class Ejecuta:IRequest{
-            public string Titulo {get;set;}
-            public string Descripcion {get;set;}
-            public DateTime FechaPublicacion {get;set;}
+            public int Id {get;set;}
         }
         public class Manejador : IRequestHandler<Ejecuta>
         {
@@ -24,21 +21,19 @@ namespace Aplicacion.Cursos
 
             public async Task<Unit> Handle(Ejecuta request, CancellationToken cancellationToken)
             {
-                var curso = new Curso{
-                    Titulo=request.Titulo,
-                    Descripcion=request.Descripcion,
-                    FechaPublicacion=request.FechaPublicacion
-                };
-                _context.Curso.Add(curso);
-
+                var curso = await _context.Curso.FindAsync(request.Id);
+                if(curso==null){
+                    throw new Exception("No se encontro curso para eliminar");
+                }
                 //0 = No se realizó la transacción - hubo errores 
                 //1 = Se realizó la transacción
                 //2 = 2 transacciones , etc...
+                _context.Remove(curso);
                 var valorTransaction = await _context.SaveChangesAsync();
                 if(valorTransaction>0)
                     return Unit.Value;
                 
-                throw new Exception("No se pudo insertar el curso");
+                throw new Exception("No se pudo eliminar el curso");
             }
         }
     }
