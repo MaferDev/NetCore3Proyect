@@ -44,8 +44,10 @@ dotnet add reference ../Dominio/
 
 ## Crear Controler en WebAPI Core
 
+En objetivo de las clases controllers es de recibir y manejar requerimientos, requests de  clientes, mas no manejar logica de negocios.
 
-localhost\SQLEXPRESS
+La capa aplicación es la encargada de manejar la logica de negocio.
+
 ~~~
 ~~~
 ~~~
