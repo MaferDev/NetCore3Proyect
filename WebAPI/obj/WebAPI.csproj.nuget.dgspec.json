@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebApi\\WebAPI.csproj": {}
+    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
     "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
@@ -48,6 +48,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -205,14 +209,14 @@
         }
       }
     },
-    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebApi\\WebAPI.csproj": {
+    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebApi\\WebAPI.csproj",
+        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebApi\\WebAPI.csproj",
+        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebApi\\obj\\",
+        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

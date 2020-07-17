@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "H2q0/MYEOPNgaMN00wJ+6/ORZzLWXRfRgn8AF411BwaKxHYzj7ZXgT593FKJWaUG4ug8EioxC65kD+LEmx72cA==",
+  "dgSpecHash": "Sk7eElE5E31GYeWRkTDk7gAmGZ0jW/hvhiCZ4lIM/QubJCO/xTbnRPCPdsm0EytFcKp5tWkNMLStWCpcOzdY4g==",
   "success": true,
-  "projectFilePath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebApi\\WebAPI.csproj",
+  "projectFilePath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mary_\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\mary_\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\mary_\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
     "C:\\Users\\mary_\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
     "C:\\Users\\mary_\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.1\\mediatr.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\mary_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

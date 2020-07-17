@@ -60,3 +60,7 @@ E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\MediatR.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs

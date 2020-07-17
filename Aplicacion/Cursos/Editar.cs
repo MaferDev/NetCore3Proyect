@@ -2,6 +2,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 using Dominio;
+using FluentValidation;
 using MediatR;
 using Persistencia;
 
@@ -14,6 +15,17 @@ namespace Aplicacion.Cursos
             public string Titulo {get;set;}
             public string Descripcion {get;set;}
             public DateTime? FechaPublicacion {get;set;}
+        }
+
+        //Se agrega esta clase para hacer las validaciones
+        public class EjecutaValidacion:AbstractValidator<Ejecuta>
+        {
+            public EjecutaValidacion(){
+                //Se agrega la regla para la validación de los atributos
+                RuleFor(x=>x.Titulo).NotEmpty();
+                RuleFor(x=>x.Descripcion).NotEmpty();
+                RuleFor(x=>x.FechaPublicacion).NotEmpty();
+            }
         }
         public class Manejador : IRequestHandler<Ejecuta>
         {

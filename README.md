@@ -54,6 +54,12 @@ La capa de aplicación es el encargado del manejo de la logica del negocio.
 
 CancellationToken => cancela la petición asincrona en el backend una vez solicitada.
 
+## Validaciones con Fluente
+
+Instalamos con package Manager FluentValidation.AspNetCore
+
+
+[``]
 ~~~
 ~~~
 ~~~
