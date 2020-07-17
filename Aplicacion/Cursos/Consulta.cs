@@ -1,6 +1,8 @@
 using System.Collections.Generic;
+using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
+using Aplicacion.ManejadorError;
 using Dominio;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -22,6 +24,9 @@ namespace Aplicacion.Cursos
             public async Task<List<Curso>> Handle(ListaCursos request, CancellationToken cancellationToken)
             {                
                 var cursos = await _context.Curso.ToListAsync();
+                
+                if(cursos==null)
+                    throw new ManejadorExcepcion(HttpStatusCode.NotFound,new {mensaje="No se encontro el curso"}); 
                 return cursos;
             }
         }

@@ -58,6 +58,16 @@ CancellationToken => cancela la petición asincrona en el backend una vez solici
 
 Instalamos con package Manager FluentValidation.AspNetCore
 
+##Mensajes del Servidor
+
+2xx = Transacción Correcta
+3xx = No se modifico
+4xx = Errores en el frontend 
+5xx = Errores en el servidor (Backend)
+
+### Middleware 
+Los middleware son necesario para mostrar un mensaje al usuario cuando el proyecto este publicado en producción.
+
 
 [``]
 ~~~

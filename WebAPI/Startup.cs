@@ -43,9 +43,12 @@ namespace WebAPI
         // Encargado del manejo de ambientes
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            //Middleware propio
+            app.UseMiddleware<ManejadorErrorMiddleware>();
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                //Excepciones por defecto
+                //app.UseDeveloperExceptionPage();
             }
 
             //https para produccion

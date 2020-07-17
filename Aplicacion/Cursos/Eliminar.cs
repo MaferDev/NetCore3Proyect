@@ -3,6 +3,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using MediatR;
 using Persistencia;
+using Aplicacion.ManejadorError;
+using System.Net;
 
 namespace Aplicacion.Cursos
 {
@@ -23,7 +25,8 @@ namespace Aplicacion.Cursos
             {
                 var curso = await _context.Curso.FindAsync(request.Id);
                 if(curso==null){
-                    throw new Exception("No se encontro curso para eliminar");
+                    //throw new Exception("No se encontro curso para eliminar");
+                    throw new ManejadorExcepcion(HttpStatusCode.NotFound,new {mensaje="No se encontro el curso"}); 
                 }
                 //0 = No se realizó la transacción - hubo errores 
                 //1 = Se realizó la transacción
