@@ -69,6 +69,7 @@ Instalamos con package Manager FluentValidation.AspNetCore
 Los middleware son necesario para mostrar un mensaje al usuario cuando el proyecto este publicado en producción.
 
 # Migración con Entity Framework Core y Sql Server
+## Creación de Archivos de Migración
 
 Agraremos un packete [`Microsoft.AspNetCore.Identity.EntityFrameworkCore`]
 
@@ -76,7 +77,13 @@ Instalaremos dotnet tools para la migración
 [`dotnet tool install --global dotnet-ef --version 3.1.1`]
 
 Creamos el archivo para la migración que se va guardar en Persistencia y se va ejecutar en WebApi
-[`dotnet ef migration add IdentityCoreInicial -p Persistencia/ -s WebAPI/`]
+[`dotnet ef migrations add IdentityCoreInicial -p Persistencia/ -s WebAPI/`]
+
+## Configurar WebAPI para ejecutar el archivo de migración
+Se modifica el archivo programs de la capa WebAPI, y se ejecuta el comando dentro del proyecto.
+[`cd WebAPI`]
+[``]
+
 ~~~
 ~~~
 ~~~
