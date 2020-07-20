@@ -45,9 +45,7 @@ E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensi
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
