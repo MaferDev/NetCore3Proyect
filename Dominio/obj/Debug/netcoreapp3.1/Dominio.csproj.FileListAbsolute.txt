@@ -1,0 +1,9 @@
+E:\GIT\NET_CORE\ProyectoNetCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+E:\GIT\NET_CORE\ProyectoNetCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+E:\GIT\NET_CORE\ProyectoNetCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

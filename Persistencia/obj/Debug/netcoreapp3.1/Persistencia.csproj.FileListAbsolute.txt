@@ -1,0 +1,15 @@
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.json
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.dev.json
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csprojAssemblyReference.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache

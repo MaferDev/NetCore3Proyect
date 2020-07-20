@@ -25,8 +25,6 @@ namespace Aplicacion.Cursos
             {                
                 var cursos = await _context.Curso.ToListAsync();
                 
-                if(cursos==null)
-                    throw new ManejadorExcepcion(HttpStatusCode.NotFound,new {mensaje="No se encontro el curso"}); 
                 return cursos;
             }
         }

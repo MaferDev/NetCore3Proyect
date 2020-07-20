@@ -1,0 +1,14 @@
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.deps.json
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csprojAssemblyReference.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfoInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfo.cs
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CoreCompileInputs.cache
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CopyComplete
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
+E:\GIT\NET_CORE\ProyectoNetCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
