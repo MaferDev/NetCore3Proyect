@@ -63,3 +63,8 @@ E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.
 E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll

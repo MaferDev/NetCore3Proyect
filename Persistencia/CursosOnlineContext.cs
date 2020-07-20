@@ -1,17 +1,19 @@
 
 using Microsoft.EntityFrameworkCore;
 using Dominio;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace Persistencia
 {
-    public class CursosOnlineContext:DbContext
+    public class CursosOnlineContext:IdentityDbContext<Usuario>
     {
         //Permitira la migracion de entidades / puentes de Inyeccion de dependencias
         public CursosOnlineContext(DbContextOptions options):base(options){
-
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder){
+            //Para crear la migración a las tablas
+            base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<CursoInstructor>().HasKey(ci=>new{ci.InstructorId,ci.CursoId});
         }
 
