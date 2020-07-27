@@ -84,6 +84,21 @@ Se modifica el archivo programs de la capa WebAPI, y se ejecuta el comando dentr
 [`cd WebAPI`]
 [`dotnet watch run`]
 
+# Tokens JWT Json Web Token
+Se trabajara en una nueva capa Seguridad
+[`dotnet new classlib -o Seguridad`]
+
+Agregamos a la solución
+[` dotnet sln add Seguridad/`]
+
+Agregamos la referencia de seguridad a Aplicacion
+[` cd Seguridad `]
+[` dotnet add reference ../Aplicacion `]
+
+Referenciamos de WebAPI hacia Seguridad
+[` cd WebAPI `]
+[` dotnet add reference ../Seguridad `]
+
 ~~~
 ~~~
 ~~~
