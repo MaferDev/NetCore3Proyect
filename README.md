@@ -99,6 +99,10 @@ Referenciamos de WebAPI hacia Seguridad
 [` cd WebAPI `]
 [` dotnet add reference ../Seguridad `]
 
+## Crear Token
+Se instalara una dependencia
+System.IdentityModel.Token_Jwt
+
 ~~~
 ~~~
 ~~~

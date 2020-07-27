@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {}
+    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
+    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
+        "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\obj\\",
+        "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj": {}
+    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
+    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\obj\\",
+        "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj"
+              "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj"
               },
-              "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj"
+              "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
+    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
+        "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\obj\\",
+        "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -143,14 +143,14 @@
         }
       }
     },
-    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj": {
+    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
+        "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\obj\\",
+        "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -169,8 +169,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj"
+              "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -219,14 +219,14 @@
         }
       }
     },
-    "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj": {
+    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Seguridad\\Seguridad.csproj",
+        "projectName": "Seguridad",
+        "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Seguridad\\Seguridad.csproj",
         "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\obj\\",
+        "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -245,8 +245,79 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj"
+              "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "e:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\mary_\\.nuget\\packages\\",
+        "outputPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mary_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj"
+              },
+              "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Seguridad\\Seguridad.csproj": {
+                "projectPath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Seguridad\\Seguridad.csproj"
               }
             }
           }

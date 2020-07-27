@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "unr74zn0s4Ex/E874zUyJUwEyN1tM0MTT/mIDcGJdh/nYTfAEVc24eo+ZyV+X8X8VsY3OD5YezJHE6wL+H0zyg==",
+  "dgSpecHash": "qhMqwrn3JWfeiDZV0rjGcA5L6y40ZRKbwh1gL2zndWSYoTIovrx2VvmkO9c2Vf7/N7zlebVxAOIqBOFXpTmwyQ==",
   "success": true,
-  "projectFilePath": "E:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "e:\\GIT\\NET_CORE\\ProyectoNetCore\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mary_\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\mary_\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
