@@ -11,7 +11,7 @@ namespace Aplicacion.Seguridad
 {
     public class Login
     {
-        public class Ejecuta:IRequest<Usuario>
+        public class Ejecuta:IRequest<UsuarioData>
         {
             public string Email {get;set;}    
             public string Password {get;set;}    
@@ -25,7 +25,7 @@ namespace Aplicacion.Seguridad
             }
         }
 
-        public class Manejador : IRequestHandler<Ejecuta, Usuario>
+        public class Manejador : IRequestHandler<Ejecuta, UsuarioData>
         {
             private readonly UserManager<Usuario> _userManager;
             private readonly SignInManager<Usuario> _signInManager;
@@ -34,7 +34,7 @@ namespace Aplicacion.Seguridad
                 _signInManager=signInManager;
                 _userManager=userManager;
             }
-            public async Task<Usuario> Handle(Ejecuta request, CancellationToken cancellationToken)
+            public async Task<UsuarioData> Handle(Ejecuta request, CancellationToken cancellationToken)
             {
                 //Verificar que el email exista
                 var usuario = await _userManager.FindByEmailAsync(request.Email);
@@ -43,8 +43,15 @@ namespace Aplicacion.Seguridad
                 }
 
                 var resultado = await _signInManager.CheckPasswordSignInAsync(usuario,request.Password,false);
-                if(resultado.Succeeded)
-                    return usuario;
+                if(resultado.Succeeded){
+                    return new UsuarioData {
+                        NombreCompleto=usuario.NombreCompleto,
+                        Token="Token",
+                        Email=usuario.Email,
+                        Username=usuario.UserName,
+                        Imagen=null
+                    };
+                }
                 
                 throw new ManejadorExcepcion(HttpStatusCode.Unauthorized);
             }
