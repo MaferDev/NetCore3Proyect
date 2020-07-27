@@ -82,7 +82,7 @@ Creamos el archivo para la migración que se va guardar en Persistencia y se va 
 ## Configurar WebAPI para ejecutar el archivo de migración
 Se modifica el archivo programs de la capa WebAPI, y se ejecuta el comando dentro del proyecto.
 [`cd WebAPI`]
-[``]
+[`dotnet watch run`]
 
 ~~~
 ~~~
