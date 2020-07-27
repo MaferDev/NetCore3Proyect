@@ -68,3 +68,9 @@ E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetC
 E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.pdb
