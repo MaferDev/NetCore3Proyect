@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using Aplicacion.Contratos;
 using Aplicacion.Cursos;
@@ -8,6 +9,7 @@ using Dominio;
 using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -19,6 +21,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.IdentityModel.Tokens;
 using Persistencia;
 using Seguridad;
 
@@ -51,6 +54,17 @@ namespace WebAPI
             identityBuilder.AddSignInManager<SignInManager<Usuario>>();
             services.TryAddSingleton<ISystemClock,SystemClock>();
 
+            //Agregar Seguridad a los controladores = Autentificación
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("Mi palabra secreta"));
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt => {
+                opt.TokenValidationParameters = new TokenValidationParameters{
+                    ValidateIssuerSigningKey=true,  
+                    IssuerSigningKey=key, //Palabra key de token
+                    ValidateAudience=false,  //Cualquiera puede crear tokens (envio)
+                    ValidateIssuer = false
+                };
+            });
+
             //JWT inyectar para que webAPI tenga acceso a los tokens
             services.AddScoped<IJwtGenerator,JwtGenerator>();
 
@@ -71,6 +85,8 @@ namespace WebAPI
             //https para produccion
             //app.UseHttpsRedirection();
 
+            app.UseAuthentication();
+            
             app.UseRouting();
 
             app.UseAuthorization();

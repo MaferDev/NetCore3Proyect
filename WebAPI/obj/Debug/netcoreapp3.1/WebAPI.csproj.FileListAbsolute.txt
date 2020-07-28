@@ -74,3 +74,6 @@ E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identit
 E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.dll
 E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.pdb
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\GIT\NET_CORE\ProyectoNetCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

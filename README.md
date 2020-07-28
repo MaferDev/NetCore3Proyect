@@ -103,6 +103,10 @@ Referenciamos de WebAPI hacia Seguridad
 Se instalara una dependencia
 System.IdentityModel.Token_Jwt
 
+Para agregar seguridad a los controladores vamos a utilizar JwtBearerDefaults
+Instalamos por Nuget
+Microsoft.AspNetCore.Authentication.JwtBearer
+
 ~~~
 ~~~
 ~~~
