@@ -76,6 +76,8 @@ namespace WebAPI
             //JWT inyectar para que webAPI tenga acceso a los tokens
             services.AddScoped<IJwtGenerator,JwtGenerator>();
 
+            //Inyectamos el usuario en session para obtener
+            services.AddScoped<IUsuarioSesion, UsuarioSesion>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
