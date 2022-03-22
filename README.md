@@ -107,6 +107,8 @@ Para agregar seguridad a los controladores vamos a utilizar JwtBearerDefaults
 Instalamos por Nuget
 Microsoft.AspNetCore.Authentication.JwtBearer
 
+# DTO 
+Un DTO es una clase especial que esta orientada a entregar data especifica a un cliente.
 ~~~
 ~~~
 ~~~

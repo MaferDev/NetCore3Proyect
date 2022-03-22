@@ -12,19 +12,25 @@ namespace Aplicacion.Cursos
 {
     public class Consulta
     {
-        public class ListaCursos:IRequest<List<Curso>>{            
+        public class ListaCursos:IRequest<List<CursoDto>>{            
         }
 
-        public class Manejador : IRequestHandler<ListaCursos, List<Curso>>
+        public class Manejador : IRequestHandler<ListaCursos, List<CursoDto>>
         {
             private readonly CursosOnlineContext _context;
             public Manejador(CursosOnlineContext context){
                 _context=context;
             }
-            public async Task<List<Curso>> Handle(ListaCursos request, CancellationToken cancellationToken)
-            {                
-                var cursos = await _context.Curso.ToListAsync();
-                
+            public async Task<List<CursoDto>> Handle(ListaCursos request, CancellationToken cancellationToken)
+            {
+                //Agregamos para que traiga el id del instructor y los datos del instructor
+                var cursos = await _context.Curso
+                    .Include(x=>x.InstructoresLink)
+                    .ThenInclude(x=>x.Instructor)
+                    .ToListAsync();
+                //Herramienta para mapear clases  
+
+
                 return cursos;
             }
         }
